@@ -4,7 +4,7 @@ class Solution {
         int sum=0;
         for(int i:nums){
             sum=(sum*2+i)%5;
-            if(sum%5==0) l.add(true);
+            if(sum==0) l.add(true);
             else l.add(false);
         }
         return l;
