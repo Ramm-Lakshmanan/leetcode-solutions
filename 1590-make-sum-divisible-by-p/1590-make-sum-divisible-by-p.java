@@ -13,10 +13,7 @@ class Solution {
             int curr=0;
             for(int i=0;i<n;i++){
                 curr=(curr+nums[i])%p;
-                if(curr==rem){
-                    if(i+1-hm.get(0)<min) min=i+1-hm.get(0);
-                }
-                else if (hm.containsKey((curr - rem + p) % p)) {
+                if (hm.containsKey((curr - rem + p) % p)) {
                     int key = (curr - rem + p) % p;
                     min = Math.min(min, i + 1 - hm.get(key));
                 }
