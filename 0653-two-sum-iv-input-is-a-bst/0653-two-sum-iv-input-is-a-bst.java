@@ -14,30 +14,16 @@
  * }
  */
 class Solution {
-    public TreeNode search(TreeNode root,int target,TreeNode found){
-        if(root==null) return found;
+    public boolean search(TreeNode root,Set<Integer> set,int k){
+        if(root==null) return false;
 
-        if(target>root.val){
-            found= search(root.right,target,found);
-        }
-        else if(target<root.val){
-            found= search(root.left,target,found);
-        }
-        else found=root;
+        if(set.contains(k-root.val)) return true;
+        set.add(root.val);
 
-        return found;
-    }
-
-    public boolean res(TreeNode root,TreeNode node,int k,boolean ans){
-        if(node==null) return ans;
-        TreeNode found=search(root,(k-node.val),null);
-        if(found!=null && found!=node) ans=true;
-        if(node.left!=null) ans=res(root,node.left,k,ans);
-        if(node.right!=null) ans=res(root,node.right,k,ans);
-
-        return ans;
+        return search(root.left,set,k) || search(root.right,set,k);
     }
     public boolean findTarget(TreeNode root, int k) {
-        return res(root,root,k,false);
+        Set<Integer> set=new HashSet<>();
+        return search(root,set,k);
     }
 }
