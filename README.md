@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0015-3sum) |
+| [0041-first-missing-positive](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0299-bulls-and-cows](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0299-bulls-and-cows) |
