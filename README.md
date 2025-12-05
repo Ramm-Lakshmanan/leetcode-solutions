@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1590-make-sum-divisible-by-p](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Tree
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1590-make-sum-divisible-by-p](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search Tree
 |  |
 | ------- |
