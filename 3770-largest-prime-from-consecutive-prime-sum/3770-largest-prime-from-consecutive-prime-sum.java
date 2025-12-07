@@ -1,6 +1,6 @@
 class Solution {
-    public int largestPrime(int n) {
-        int[] primes=new int[500000+1];
+    int[] primes=new int[500000+1];
+    public void sieve(){
         Arrays.fill(primes,1);
         primes[0]=0;
         primes[1]=0;
@@ -11,6 +11,10 @@ class Solution {
                 }
             }
         }
+    }
+    public int largestPrime(int n) {
+        sieve();
+
         int sum=0,max=0;
         for(int i=0;i<=500000;i++){
             if(primes[i]==1){
