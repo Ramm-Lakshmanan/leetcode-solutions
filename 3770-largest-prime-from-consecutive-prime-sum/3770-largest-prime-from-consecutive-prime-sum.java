@@ -1,6 +1,6 @@
 class Solution {
-    int[] primes=new int[500000+1];
-    public void sieve(){
+    static int[] primes=new int[500000+1];
+    public static void sieve(){
         Arrays.fill(primes,1);
         primes[0]=0;
         primes[1]=0;
