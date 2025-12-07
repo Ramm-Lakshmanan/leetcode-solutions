@@ -1,6 +1,8 @@
 class Solution {
     static int[] primes=new int[500000+1];
+    static boolean built=false;
     public static void sieve(){
+        if(built) return;
         Arrays.fill(primes,1);
         primes[0]=0;
         primes[1]=0;
@@ -11,6 +13,7 @@ class Solution {
                 }
             }
         }
+        built=true;
     }
     public int largestPrime(int n) {
         sieve();
