@@ -7,7 +7,8 @@ class Solution {
         for(int i=2;i<=Math.sqrt(500000);i++){
             if(primes[i]==1){
                 for(int j=(i*i);j<=500000;j+=i){
-                    primes[j]=0;
+                    if(primes[j]==1)
+                        primes[j]=0;
                 }
             }
         }
