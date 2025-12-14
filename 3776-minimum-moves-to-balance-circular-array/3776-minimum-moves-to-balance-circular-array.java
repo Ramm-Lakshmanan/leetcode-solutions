@@ -8,24 +8,23 @@ class Solution {
         }
         if(sum < 0) return -1;
         if(idx == -1) return 0;
-        long val = balance[idx];
-        int left = (idx-1+n) % n; int right = (idx+1) % n;
-        int i=1; long ans = 0; 
-        while(val < 0){
-            if(balance[left] > 0){
-                long take = Math.min(balance[left], -val);
-                val += take;
-                ans += take * i;
+        long val=balance[idx];
+        int left=(idx-1+n)%n,right=(idx+1)%n;
+        long i=1L,ans=0L;
+        while(val<0){
+            if(balance[left]>0){
+                long need=Math.min(balance[left],-val);
+                val+=need;
+                ans+=(need*i);
             }
-
-            if(val < 0 && balance[right] > 0){
-                long take2 = Math.min(balance[right], -val);
-                val += take2;
-                ans += take2 * i;
+            if(val<0 && balance[right]>0){
+                long need=Math.min(-val,balance[right]);
+                val+=need;
+                ans+=(need*i);
             }
-            left = (left - 1 + n) % n;
-            right = (right + 1) % n;
-            i++;
+            i+=1L;
+            left=(left-1+n)%n;
+            right=(right+1)%n;
         }
         return ans;
     }
