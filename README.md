@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1590-make-sum-divisible-by-p](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
+| [2140-solving-questions-with-brainpower](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
+| [2140-solving-questions-with-brainpower](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [3693-climbing-stairs-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
