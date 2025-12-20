@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0274-h-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0983-minimum-cost-for-tickets](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1004-max-consecutive-ones-iii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0983-minimum-cost-for-tickets](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [3693-climbing-stairs-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
