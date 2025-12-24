@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3583-count-special-triplets) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3693-climbing-stairs-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0299-bulls-and-cows) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2211-count-collisions-on-a-road](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Counting
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0134-gas-station) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Matrix
 |  |
 | ------- |
@@ -240,4 +243,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [3781-maximum-score-after-binary-swaps](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
 <!---LeetCode Topics End-->
