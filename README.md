@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0062-unique-paths) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Backtracking
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0213-house-robber-ii) |
