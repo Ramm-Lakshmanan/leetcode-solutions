@@ -17,24 +17,21 @@ class Solution {
             }
             return ;
         }
-        int req=Integer.MAX_VALUE;
-        int idx2=-1;
-        for(int i=idx+1;i<n;i++){
-            if(nums[i]>nums[idx] && nums[i]<=req){
-                idx2=i;
-                req=nums[i];
+        
+        for(int i=n-1;i>idx;i--){
+            if(nums[i]>nums[idx]){
+                int temp=nums[idx];
+                nums[idx]=nums[i];
+                nums[i]=temp;
+                break;
             }
         }
-        int temp=nums[idx];
-        nums[idx]=nums[idx2];
-        nums[idx2]=temp;
-
         int left=idx+1;
         int right=n-1;
         while(left<right){
-            temp=nums[left];
+            int temp2=nums[left];
             nums[left]=nums[right];
-            nums[right]=temp;
+            nums[right]=temp2;
             left++;
             right--;
         }
