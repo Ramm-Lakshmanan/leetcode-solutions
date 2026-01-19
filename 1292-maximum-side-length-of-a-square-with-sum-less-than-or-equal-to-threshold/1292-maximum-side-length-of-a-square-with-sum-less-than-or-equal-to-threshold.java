@@ -27,13 +27,17 @@ class Solution {
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 int req=Math.min(m-1-i,n-1-j);
-                for(int k=req;k>=0;k--){
-                    long comp=func(i,j,k,pref);
+                int low=0,high=req;
+                while(low<=high){
+                    int mid=(low+high)/2;
+                    long comp=func(i,j,mid,pref);
+
                     if(comp<=(long)threshold){
-                        if(k+1>max){
-                            max=k+1;
-                        }
-                        break;
+                        max=Math.max(max,mid+1);
+                        low=mid+1;
+                    }
+                    else{
+                        high=mid-1;
                     }
                 }
             }
