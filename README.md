@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2402-meeting-rooms-iii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Breadth-First Search
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Counting Sort
 |  |
 | ------- |
