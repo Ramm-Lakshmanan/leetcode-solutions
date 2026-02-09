@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0134-gas-station](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0134-gas-station) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0078-subsets) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
