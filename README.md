@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
@@ -303,10 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0063-unique-paths-ii) |
