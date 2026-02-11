@@ -1,7 +1,7 @@
 class Solution {
     public void func(List<String> res,int co,int cc,int n,String curr){
         if(co==n && cc==n){
-            res.add(curr.toString());
+            res.add(curr);
             return;
         }
         if(co>n || cc>n) return;
