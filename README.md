@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0797-all-paths-from-source-to-target](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0797-all-paths-from-source-to-target](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Tree
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0078-subsets) |
+| [0797-all-paths-from-source-to-target](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -350,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
