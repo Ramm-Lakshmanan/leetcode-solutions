@@ -4,7 +4,7 @@ class Solution {
 
         for(int i=0;i<graph[node].length;i++){
             List<Integer> temp=new ArrayList<>();
-            for(int j=0;j<curr.size();j++) temp.add(curr.get(j));
+            temp.addAll(curr);
             temp.add(graph[node][i]);
             if(graph[node][i]==graph.length-1) ans.add(temp);
             else
