@@ -5,15 +5,17 @@ class Solution {
         List<List<String>> ans=new ArrayList<>();
         for(int i=0;i<searchWord.length();i++){
             List<String> curr=new ArrayList<>();
-            int cnt=0,j=0;
-            while(cnt<3 && j<n){
-                if(products[j].length()>=i+1 && searchWord.substring(0,i+1).equals(products[j].substring(0,i+1))){
-                    curr.add(products[j]);
-                    cnt++;
-                }
+            ans.add(curr);
+        }
+        for(int i=0;i<n;i++){
+            int j=0;
+            while(j<searchWord.length() && products[i].length()>=j+1 && products[i].substring(0,j+1).equals(searchWord.substring(0,j+1))){
+                List<String> temp=ans.get(j);
+                System.out.println(temp);
+                if(temp.size()<=2)
+                    temp.add(products[i]);
                 j++;
             }
-            ans.add(curr);
         }
         return ans;
     }
