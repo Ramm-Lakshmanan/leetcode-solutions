@@ -28,7 +28,6 @@ class Solution {
         }
         while(!pq.isEmpty()){
             pair now=pq.poll();
-            System.out.println(now.val);
             ListNode curr=now.node;
             temp.next=curr;
             if(curr.next!=null){
