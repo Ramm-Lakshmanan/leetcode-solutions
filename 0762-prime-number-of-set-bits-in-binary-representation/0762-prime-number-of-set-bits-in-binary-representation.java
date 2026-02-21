@@ -1,6 +1,6 @@
 class Solution {
     static boolean built=false;
-    static boolean[] primes=new boolean[1000001];
+    static boolean[] primes=new boolean[20];
     static void sieve(){
         if(!built){
             Arrays.fill(primes,true);
