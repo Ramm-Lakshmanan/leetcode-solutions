@@ -8,34 +8,51 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class pair{
-    ListNode node;
-    int val;
-    public pair(ListNode node,int val){
-        this.node=node;
-        this.val=val;
-    }
-}
 class Solution {
-    public ListNode mergeKLists(ListNode[] lists) {
-        ListNode nhead=new ListNode(-1);
-        ListNode temp=nhead;
-        PriorityQueue<pair> pq=new PriorityQueue<>(
-            (a,b)->Integer.compare(a.val,b.val)
-        );
-        for(int i=0;i<lists.length;i++){
-            if(lists[i]!=null) pq.offer(new pair(lists[i],lists[i].val));
-        }
-        while(!pq.isEmpty()){
-            pair now=pq.poll();
-            ListNode curr=now.node;
-            temp.next=curr;
-            if(curr.next!=null){
-                pq.offer(new pair(curr.next,curr.next.val));
+    public ListNode merge(ListNode head1,ListNode head2){
+        ListNode temp1=head1;
+        ListNode temp2=head2;
+        ListNode head=new ListNode(-1);
+        ListNode temp=head;
+        while(temp1!=null && temp2!=null){
+            if(temp1.val<temp2.val){
+                temp.next=temp1;
+                temp=temp.next;
+                temp1=temp1.next;
             }
-            temp=temp.next;
+            else{
+                temp.next=temp2;
+                temp=temp.next;
+                temp2=temp2.next;
+            }
         }
 
-        return nhead.next;
+        while(temp1!=null){
+            temp.next=temp1;
+            temp=temp.next;
+            temp1=temp1.next;
+        }
+        while(temp2!=null){
+            temp.next=temp2;
+            temp=temp.next;
+            temp2=temp2.next;
+        }
+        temp.next=null;
+        return head.next;
+    }
+    public ListNode merge_sort(ListNode[] lists,int low,int high){
+        if(low<high){
+            int mid=(low+high)/2;
+            ListNode head1=merge_sort(lists,low,mid);
+            ListNode head2=merge_sort(lists,mid+1,high);
+            ListNode head=merge(head1,head2);
+            return head;
+        }
+        else if(low==high) return lists[low];
+        return null;
+    }
+    public ListNode mergeKLists(ListNode[] lists) {
+        int n=lists.length;
+        return merge_sort(lists,0,n-1);
     }
 }
