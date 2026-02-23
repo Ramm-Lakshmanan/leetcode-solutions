@@ -10,13 +10,11 @@ class Solution {
             temp_curr.add(candidates[idx]);
             temp_sum+=candidates[idx];
             if(temp_sum==target){
-                Collections.sort(temp_curr);
                 ans.add(temp_curr);
             }
             func(candidates,idx-1,temp_sum,target,temp_curr,ans);
         }
         if(sum==target){
-            Collections.sort(curr);
             ans.add(curr);
         }
         func(candidates,idx-1,sum,target,curr,ans);
