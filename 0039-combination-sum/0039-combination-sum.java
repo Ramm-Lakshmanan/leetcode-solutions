@@ -1,7 +1,8 @@
 class Solution {
     public void func(List<List<Integer>> ans,int idx,List<Integer> curr,int sum,int target,int[] candidates){
-        if(sum==target && idx==candidates.length){
+        if(sum==target){
             ans.add(new ArrayList<>(curr));
+            return;
         }
         if(idx>=candidates.length || sum>target) return;
 
