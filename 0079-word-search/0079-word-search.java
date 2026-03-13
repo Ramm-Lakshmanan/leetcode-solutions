@@ -15,7 +15,6 @@ class Solution {
     public boolean exist(char[][] board, String word) {
         int r=board.length,c=board[0].length;
         boolean[][] visited=new boolean[r][c];
-        for(int i=0;i<r;i++) Arrays.fill(visited[i],false);
         for(int i=0;i<r;i++){
             for(int j=0;j<c;j++){
                 if(func(i,j,0,word,board,visited)) return true;
