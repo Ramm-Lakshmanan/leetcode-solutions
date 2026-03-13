@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0299-bulls-and-cows](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0299-bulls-and-cows) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0079-word-search) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0797-all-paths-from-source-to-target](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
