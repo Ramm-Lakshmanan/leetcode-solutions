@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1268-search-suggestions-system](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1268-search-suggestions-system) |
+| [1328-break-a-palindrome](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1328-break-a-palindrome) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2211-count-collisions-on-a-road](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1328-break-a-palindrome](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1328-break-a-palindrome) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
