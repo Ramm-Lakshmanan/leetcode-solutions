@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0780-reaching-points](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0780-reaching-points) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1390-four-divisors](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
