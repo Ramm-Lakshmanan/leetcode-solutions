@@ -5,7 +5,7 @@ class Solution {
         StringBuilder sb=new StringBuilder(palindrome);
         boolean flag=false;
         for(int i=0;i<n;i++){
-            if(i!=n/2 && palindrome.charAt(i)!='a'){
+            if(i!=(n-i-1) && palindrome.charAt(i)!='a'){
                 sb.setCharAt(i,'a');
                 flag=true;
                 break;
