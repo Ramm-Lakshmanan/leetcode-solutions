@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
