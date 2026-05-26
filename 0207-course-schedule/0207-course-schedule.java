@@ -1,15 +1,16 @@
 class Solution {
-    public boolean dfs(int node,boolean[] visited,Set<Integer> inStack,List<List<Integer>> adj_list){
-        inStack.add(node);
+    public boolean dfs(int node,boolean[] visited,boolean[] inStack,List<List<Integer>> adj_list){
+        inStack[node]=true;
 
         for(int neigh:adj_list.get(node)){
             if(!visited[neigh]){
-                if(inStack.contains(neigh)) return false;
+                if(inStack[neigh]) return false;
 
                 if(!dfs(neigh,visited,inStack,adj_list)) return false;
             }
         }
         visited[node]=true;
+        inStack[node]=false;
         return true;
     }
     public boolean canFinish(int v, int[][] e) {
@@ -21,10 +22,10 @@ class Solution {
         }
 
         boolean[] visited=new boolean[v];
+        boolean[] inStack=new boolean[v];
 
         for(int i=0;i<v;i++){
             if(!visited[i]){
-                Set<Integer> inStack=new HashSet<>();
                 if(!dfs(i,visited,inStack,adj_list)) return false;
             }
         }
