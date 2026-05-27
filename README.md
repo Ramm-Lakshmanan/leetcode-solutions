@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0696-count-binary-substrings) |
+| [0977-squares-of-a-sorted-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0977-squares-of-a-sorted-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
