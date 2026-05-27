@@ -15,10 +15,10 @@ class Solution {
             int pos=Integer.MAX_VALUE;
 
             if(n>=0 && n<nums.length){
-                neg=(int)Math.pow(nums[n],2);
+                neg=nums[n]*nums[n];
             }
             if(p>=0 && p<nums.length){
-                pos=(int)Math.pow(nums[p],2);
+                pos=nums[p]*nums[p];
             }
             if(pos<=neg){
                 ans[k++]=pos;
