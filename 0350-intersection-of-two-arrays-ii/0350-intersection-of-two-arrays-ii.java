@@ -1,31 +1,23 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
         Map<Integer,Integer> hm1=new HashMap<>();
-        Map<Integer,Integer> hm2=new HashMap<>();
-        Map<Integer,Integer> res=new HashMap<>();
+        List<Integer> res=new ArrayList<>();
 
         for(int ele:nums1){
             hm1.put(ele,hm1.getOrDefault(ele,0)+1);
         }
 
         for(int ele:nums2){
-            hm2.put(ele,hm2.getOrDefault(ele,0)+1);
-        }
-        int tot=0;
-        for(int ele:hm1.keySet()){
-            if(hm2.containsKey(ele)){
-                int cnt=Math.min(hm1.get(ele),hm2.get(ele));
-                tot+=cnt;
-                res.put(ele,cnt);
+            if(hm1.getOrDefault(ele,0)>0){
+                res.add(ele);
+                hm1.put(ele,hm1.get(ele)-1);
             }
         }
 
-        int[] ans=new int[tot];
+        int[] ans=new int[res.size()];
         int i=0;
-        for(int ele:res.keySet()){
-            for(int j=0;j<res.get(ele);j++){
-                ans[i++]=ele;
-            }
+        for(int ele:res){
+            ans[i++]=ele;
         }  
         return ans;      
     }
