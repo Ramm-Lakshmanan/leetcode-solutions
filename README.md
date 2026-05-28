@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0040-combination-sum-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
