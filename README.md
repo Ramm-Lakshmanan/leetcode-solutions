@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1002-find-common-characters](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1002-find-common-characters](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1590-make-sum-divisible-by-p](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1002-find-common-characters](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1268-search-suggestions-system](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1328-break-a-palindrome](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1328-break-a-palindrome) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
