@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2126-destroying-asteroids](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2140-solving-questions-with-brainpower](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2402-meeting-rooms-iii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2126-destroying-asteroids](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2402-meeting-rooms-iii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1328-break-a-palindrome](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1328-break-a-palindrome) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2126-destroying-asteroids](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [3074-apple-redistribution-into-boxes](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
