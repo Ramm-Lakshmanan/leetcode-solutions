@@ -1,14 +1,10 @@
 class Solution {
     public boolean asteroidsDestroyed(int mass, int[] ast) {
-        PriorityQueue<Integer> pq=new PriorityQueue<>();
-        for(int ele:ast){
-            pq.offer(ele);
-        }
+        Arrays.sort(ast);
         long m=(long)mass;
-        while(!pq.isEmpty()){
-            int cur=pq.poll();
-            if(m<(long)cur) return false;
-            m+=(long)cur;
+        for(int ele:ast){
+            if(m<(long)ele) return false;
+            m+=(long)ele;
         }
         return true;
     }
