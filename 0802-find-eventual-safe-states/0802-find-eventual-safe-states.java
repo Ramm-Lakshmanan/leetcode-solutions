@@ -5,6 +5,7 @@ class Solution {
         int v=graph.length;
         int[] outdeg=new int[v];
         List<Integer> ans=new ArrayList<>();
+        boolean[] vis=new boolean[v];
 
         for(int i=0;i<v;i++) {
             rev.add(new ArrayList<>());
@@ -24,7 +25,7 @@ class Solution {
 
         while(!q.isEmpty()){
             int node=q.pollFirst();
-            ans.add(node);
+            vis[node]=true;
 
             for(int i:rev.get(node)){
                 outdeg[i]--;
@@ -32,7 +33,9 @@ class Solution {
             }
         }
         
-        Collections.sort(ans);
+        for(int i=0;i<v;i++){
+            if(vis[i]) ans.add(i);
+        }
         return ans;
     }
 }
