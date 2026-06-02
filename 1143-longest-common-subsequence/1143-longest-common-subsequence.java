@@ -9,9 +9,8 @@ class Solution {
     //     }
     //     int ch1=func(i-1,j,text1,text2,dp);
     //     int ch2=func(i,j-1,text1,text2,dp);
-    //     int ch3=func(i-1,j-1,text1,text2,dp);
 
-    //     return dp[i][j]=Math.max(ch1,Math.max(ch2,ch3));
+    //     return dp[i][j]=Math.max(ch1,ch2);
     // }
     public int longestCommonSubsequence(String text1, String text2) {
         int n=text1.length(),m=text2.length();
@@ -42,7 +41,7 @@ class Solution {
                     dp[i][j]=1+dp[i-1][j-1];
                 }
                 else{
-                    dp[i][j]=Math.max(dp[i-1][j-1],Math.max(dp[i][j-1],dp[i-1][j]));
+                    dp[i][j]=Math.max(dp[i][j-1],dp[i-1][j]);
                 }
             }
         }
