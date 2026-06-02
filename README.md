@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0941-valid-mountain-array) |
+| [0953-verifying-an-alien-dictionary](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0953-verifying-an-alien-dictionary](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0696-count-binary-substrings) |
+| [0953-verifying-an-alien-dictionary](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1002-find-common-characters](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1268-search-suggestions-system](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1268-search-suggestions-system) |
