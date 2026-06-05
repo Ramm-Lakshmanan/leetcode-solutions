@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3583-count-special-triplets) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3693-climbing-stairs-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Stack
 |  |
 | ------- |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Matrix
 |  |
