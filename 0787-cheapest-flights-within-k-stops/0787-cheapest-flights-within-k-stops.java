@@ -9,32 +9,33 @@ class Solution {
             adj.get(flights[i][0]).add(temp);
         }
 
-        int[][] dist=new int[n][k+1];
-        for(int i=0;i<n;i++)
-            Arrays.fill(dist[i],Integer.MAX_VALUE);
+        int[] dist=new int[n];
+        Arrays.fill(dist,Integer.MAX_VALUE);
+        int stops=0;
+        dist[src]=0;
 
-        PriorityQueue<int[]> pq=new PriorityQueue<>((a,b)->Integer.compare(a[0],b[0]));
-
-        pq.offer(new int[]{0,src,0});
-        dist[src][0]=0;
-
-        while(!pq.isEmpty()){
-            int[] curr=pq.poll();
-            if(curr[2]>k) continue;
-            int cost=curr[0],node=curr[1],stop=curr[2];
-
-            for(List<Integer> now:adj.get(node)){
-                int nnode=now.get(0),ncost=now.get(1);
-                if(ncost+cost<dist[nnode][stop]){
-                    dist[nnode][stop]=ncost+cost;
-                    pq.offer(new int[]{dist[nnode][stop],nnode,stop+1});
-                }
-            }
-        }
-        int ans=Integer.MAX_VALUE;
-        for(int i=0;i<k+1;i++) ans=Math.min(ans,dist[dst][i]);
+        Deque<int[]> q=new ArrayDeque<>();
+        q.offerLast(new int[]{0,src});
         
-        if(ans==Integer.MAX_VALUE) return -1;
-        return ans;
+        while(!q.isEmpty() && stops<=k){
+            int size=q.size();
+            while(size>0){
+                int[] curr=q.pollFirst();
+                int node=curr[1],cost=curr[0];
+
+                for(List<Integer> next:adj.get(node)){
+                    int nnode=next.get(0),ncost=next.get(1);
+
+                    if(ncost+cost<dist[nnode]){
+                        dist[nnode]=ncost+cost;
+                        q.offerLast(new int[]{dist[nnode],nnode});
+                    }
+                }
+                size--;
+            }
+            stops++;
+        }
+        if(dist[dst]==Integer.MAX_VALUE) return -1;
+        return dist[dst];
     }
 }
