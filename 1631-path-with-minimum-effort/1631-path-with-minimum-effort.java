@@ -9,7 +9,7 @@ class Solution {
         PriorityQueue<int[]> pq=new PriorityQueue<>((a,b)->Integer.compare(a[0],b[0]));
 
         pq.offer(new int[]{0,0,0});
-
+        dist[0][0]=0;
         while(!pq.isEmpty()){
             int[] curr=pq.poll();
             int cost=curr[0],x=curr[1],y=curr[2];
@@ -23,7 +23,6 @@ class Solution {
                 }
             }
         }
-        if(dist[row-1][col-1]==Integer.MAX_VALUE) return 0;
         return dist[row-1][col-1];
     }
 }
