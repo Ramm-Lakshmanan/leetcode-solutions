@@ -5,16 +5,18 @@ class Solution {
 
         if(sum%2!=0) return false;
 
-        boolean[][] dp=new boolean[n+1][(sum/2)+1];
+        boolean[] dp=new boolean[(sum/2)+1];
         
-        for(int i=0;i<=n;i++) dp[i][0]=true;
+        for(int i=0;i<=n;i++) dp[0]=true;
 
         for(int i=1;i<=n;i++){
+            boolean[] temp=new boolean[(sum/2)+1];
             for(int j=1;j<=(sum/2);j++){
-                if(nums[i-1]>j) dp[i][j]=dp[i-1][j];
-                else dp[i][j]=dp[i-1][j] | dp[i-1][j-nums[i-1]];
+                if(nums[i-1]>j) temp[j]=dp[j];
+                else temp[j]=dp[j] | dp[j-nums[i-1]];
             }
+            dp=temp;
         }
-        return dp[n][(sum/2)];
+        return dp[(sum/2)];
     }
 }
