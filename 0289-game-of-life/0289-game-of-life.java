@@ -3,7 +3,8 @@ class Solution {
         int[][] d={{-1,-1},{-1,0},{-1,1},{0,-1},{0,1},{1,-1},{1,0},{1,1}};
 
         int m=board.length,n=board[0].length;
-        int[][] next=new int[m][n];
+        List<List<Integer>> lives=new ArrayList<>();
+        List<List<Integer>> dies=new ArrayList<>();
 
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
@@ -16,21 +17,34 @@ class Solution {
                     }
                 }
                 if(board[i][j]==1){
-                    if(live<2) next[i][j]=0;
-                    else if(live>=2 && live<=3) next[i][j]=1;
-                    else next[i][j]=0;
+                    if(live<2){
+                        List<Integer> temp=new ArrayList<>();
+                        temp.add(i);temp.add(j);
+                        dies.add(temp);
+                    }
+                    else if(live>=2 && live<=3) continue;
+                    else{
+                        List<Integer> temp=new ArrayList<>();
+                        temp.add(i);temp.add(j);
+                        dies.add(temp);
+                    }
                 }
                 else{
-                    if(live==3) next[i][j]=1;
-                    else next[i][j]=0;
+                    if(live==3){
+                        List<Integer> temp=new ArrayList<>();
+                        temp.add(i);temp.add(j);
+                        lives.add(temp);
+                    }
                 }
             }
         }
 
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                board[i][j]=next[i][j];
-            }
+        for(List<Integer> newl:lives){
+            board[newl.get(0)][newl.get(1)]=1;
+        }
+
+        for(List<Integer> newd:dies){
+            board[newd.get(0)][newd.get(1)]=0;
         }
     }
 }
