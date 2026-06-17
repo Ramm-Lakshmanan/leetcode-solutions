@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
 |  |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0062-unique-paths) |
