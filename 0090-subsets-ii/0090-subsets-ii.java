@@ -3,7 +3,6 @@ class Solution {
         if(idx==-1){
             List<Integer> now=new ArrayList<>();
             now.addAll(temp);
-            Collections.sort(now);
             ans.add(now);
             return;
         }
@@ -14,6 +13,7 @@ class Solution {
         func(idx-1,nums,temp,ans);
     }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
+        Arrays.sort(nums);
         int n=nums.length;
         Set<List<Integer>> ans=new HashSet<>();
         List<Integer> temp=new ArrayList<>();
