@@ -1,22 +1,23 @@
 class Solution {
-    public int func(int amount,int[] dp,int[] coins){
+    public int func(int amount,int[] coins,int[] dp){
+        if(amount<0) return Integer.MAX_VALUE;
         if(amount==0) return 0;
-        else if(amount<0) return -1;
 
-        if(dp[amount]!=-2) return dp[amount];
+        if(dp[amount]!=-1) return dp[amount];
 
-        int min=Integer.MAX_VALUE;
+        int ans=Integer.MAX_VALUE;
+
         for(int coin:coins){
-            int curr=func(amount-coin,dp,coins);
-            if(curr>=0) min=Math.min(curr+1,min);
+            int res=func(amount-coin,coins,dp);
+            if(res!=Integer.MAX_VALUE) ans=Math.min(ans,1+res);
         }
-
-        if(min==Integer.MAX_VALUE) return dp[amount]=-1;
-        return dp[amount]=min;
+        return dp[amount]=ans;
     }
     public int coinChange(int[] coins, int amount) {
         int[] dp=new int[amount+1];
-        Arrays.fill(dp,-2);
-        return func(amount,dp,coins);
+        Arrays.fill(dp,-1);
+        int res= func(amount,coins,dp);
+        if(res==Integer.MAX_VALUE) return -1;
+        return res;
     }
 }
