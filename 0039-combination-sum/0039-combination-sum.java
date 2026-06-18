@@ -1,19 +1,22 @@
 class Solution {
-    public void func(List<List<Integer>> ans,int idx,List<Integer> curr,int sum,int target,int[] candidates){
-        if(sum==target){
-            ans.add(new ArrayList<>(curr));
+    public void func(int target,List<Integer> temp,List<List<Integer>> ans,int[] cand,int start){
+        if(target<0) return;
+        if(target==0){
+            ans.add(new ArrayList<>(temp));
             return;
         }
-        if(idx>=candidates.length || sum>target) return;
-
-        curr.add(candidates[idx]);
-        func(ans,idx,curr,sum+candidates[idx],target,candidates);
-        curr.remove(curr.size()-1);
-        func(ans,idx+1,curr,sum,target,candidates);
+        for(int i=start;i<cand.length;i++){
+            temp.add(cand[i]);
+            func(target-cand[i],temp,ans,cand,i);
+            temp.remove(temp.size()-1);
+        }
     }
-    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+    public List<List<Integer>> combinationSum(int[] cand, int target) {
+        int n=cand.length;
         List<List<Integer>> ans=new ArrayList<>();
-        func(ans,0,new ArrayList<>(),0,target,candidates);
+        List<Integer> temp=new ArrayList<>();
+
+        func(target,temp,ans,cand,0);
         return ans;
     }
 }
