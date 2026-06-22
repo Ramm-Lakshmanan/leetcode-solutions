@@ -24,16 +24,18 @@ class Solution {
         if((sum+target)%2!=0) return 0;
         int targ=(sum+target)/2;
 
-        int[][] dp=new int[n+1][targ+1];
+        int[] dp=new int[targ+1];
 
-        dp[0][0]=1;
+        dp[0]=1;
 
         for(int i=1;i<=n;i++){
+            int[] temp=new int[targ+1];
             for(int j=0;j<=targ;j++){
-                dp[i][j]+=dp[i-1][j];
-                if(nums[i-1]<=j) dp[i][j]+=dp[i-1][j-nums[i-1]];
+                temp[j]+=dp[j];
+                if(nums[i-1]<=j)  temp[j]+=dp[j-nums[i-1]];
             }
+            dp=temp;
         }
-        return dp[n][targ];
+        return dp[targ];
     }
 }
