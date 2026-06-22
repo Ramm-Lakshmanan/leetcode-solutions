@@ -9,7 +9,7 @@ class Solution {
         int c=0;
         c+=func(idx-1,cur-nums[idx],target,nums,dp,sum);
         c+=func(idx-1,cur+nums[idx],target,nums,dp,sum);
-        return dp[idx][sum+cur]=c;
+        return c;
     }
     public int findTargetSumWays(int[] nums, int target) {
         int n=nums.length,sum=0;
@@ -17,7 +17,6 @@ class Solution {
 
         int[][] dp=new int[n][(2*sum)+1];
         for(int i=0;i<n;i++) Arrays.fill(dp[i],-1);
-
         return func(n-1,0,target,nums,dp,sum);
     }
 }
