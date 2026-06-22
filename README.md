@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0494-target-sum) |
 | [0724-find-pivot-index](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Dynamic Programming
 |  |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0983-minimum-cost-for-tickets](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
