@@ -15,8 +15,6 @@ class Solution {
     }
     public int maxProfit(int[] prices) {
         int n=prices.length;
-        int max=0;
-        for(int ele:prices) max=Math.max(max,ele);
 
         int[] dp=new int[n];
         Arrays.fill(dp,-1);
