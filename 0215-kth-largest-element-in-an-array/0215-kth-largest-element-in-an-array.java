@@ -27,10 +27,10 @@ class Solution {
                 return nums[q];
             }
             else if(q+1<k){
-                return qsort(q+1,r,nums,k);
+                l=q+1;
             }
             else{
-                return qsort(l,q-1,nums,k);
+                r=q-1;
             }
         }
         return nums[k-1];
