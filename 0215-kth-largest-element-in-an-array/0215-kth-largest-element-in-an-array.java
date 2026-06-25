@@ -1,54 +1,55 @@
-import java.util.Random;
-
 class Solution {
-    private final Random rand = new Random(); // Reuse Random instance
+    public int findKthLargest(int[] nums, int k) {
+        // PriorityQueue<Integer> minHeap = new PriorityQueue<>();
 
-    public int partition(int l, int r, int[] nums) {
-        // 1. Pick a random index between l and r
-        int randomIndex = l + rand.nextInt(r - l + 1);
-        
-        // 2. Swap it to the end so your existing logic works perfectly
-        int pTemp = nums[randomIndex];
-        nums[randomIndex] = nums[r];
-        nums[r] = pTemp;
+        // for (int num: nums) {
+        //     minHeap.offer(num);
 
-        int i = l - 1;
-        int pivot = nums[r];
+        //     if (minHeap.size() > k) 
+        //         minHeap.poll();
+        // }
 
-        for (int j = l; j < r; j++) {
-            if (nums[j] > pivot) { // Descending order
-                i++;
-                int temp = nums[j];
-                nums[j] = nums[i];
-                nums[i] = temp;
+        // return minHeap.peek();
+
+        int left = 0, right = nums.length - 1;
+        while (true) {
+            int pivot = partition(nums, left, right);
+            if (pivot == k-1) {
+                return nums[pivot];
             }
-        }
-        i++;
-        int temp = nums[i];
-        nums[i] = nums[r];
-        nums[r] = temp;
-
-        return i;
-    }
-
-    public int qsort(int l, int r, int[] nums, int k) {
-        while (l <= r) {
-            int q = partition(l, r, nums);
-
-            if (q + 1 == k) {
-                return nums[q];
-            }
-            else if (q + 1 < k) {
-                l = q + 1;
+            else if (pivot > k-1) {
+                right = pivot - 1;
             }
             else {
-                r = q - 1;
+                left = pivot + 1;
             }
         }
-        return nums[k - 1];
     }
 
-    public int findKthLargest(int[] nums, int k) {
-        return qsort(0, nums.length - 1, nums, k);
+    public int partition(int[] nums, int left, int right) {
+        int pivot = nums[left];
+        int i = left + 1;
+        int j = right;
+        while (i <= j) {
+            if (nums[i] < pivot && nums[j] > pivot) {
+                swap(nums, i, j);
+                i++;
+                j--;
+            }
+
+            if (nums[i] >= pivot)
+                i++;
+
+            if (nums[j] <= pivot)
+                j--;
+        }
+        swap(nums, left, j);
+        return j;
+    }
+
+    private void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 }
