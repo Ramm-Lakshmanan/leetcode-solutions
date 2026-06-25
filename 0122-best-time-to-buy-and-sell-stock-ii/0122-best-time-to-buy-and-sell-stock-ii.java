@@ -1,31 +1,22 @@
 class Solution {
-    // public int func(int idx,int max,int[] prices,int[] dp){
-    //     if(idx==-1) return 0;
+    public int func(int idx,int buy,int[] prices,int[][] dp){
+        if(idx==prices.length) return 0;
+        if(dp[idx][buy]!=-1) return dp[idx][buy];
+        int profit=0;
+        if(buy==0){
+            profit=Math.max(func(idx+1,buy,prices,dp),-prices[idx]+func(idx+1,1,prices,dp));
+        }
+        else{
+            profit=Math.max(func(idx+1,buy,prices,dp),prices[idx]+func(idx,0,prices,dp));
+        }
 
-    //     if(dp[idx]!=-1) return dp[idx];
-
-    //     max=Math.max(max,prices[idx]);
-    //     int ch1=0,ch2=0;
-    //     if(max>prices[idx]){
-    //         ch1=max-prices[idx]+func(idx-1,prices[idx],prices,dp);
-    //     }
-    //     ch2=func(idx-1,max,prices,dp);
-
-    //     return dp[idx]=Math.max(ch1,ch2);
-    // }
+        return dp[idx][buy]=profit;
+    }
     public int maxProfit(int[] prices) {
         int n=prices.length;
+        int[][] dp=new int[n][2];
+        for(int i=0;i<n;i++) Arrays.fill(dp[i],-1);
 
-        int profit=0;
-        int max=prices[n-1];
-
-        for(int i=n-2;i>=0;i--){
-            if(prices[i]>max) max=prices[i];
-            else{
-                profit+=(max-prices[i]);
-                max=prices[i];
-            }
-        }
-        return profit;
+        return func(0,0,prices,dp);
     }
 }
