@@ -13,15 +13,19 @@ class Solution {
             hm.put(s,hm.getOrDefault(s,0)+1);
         }
         PriorityQueue<pair> pq=new PriorityQueue<>((a,b)->{
-            if(a.freq==b.freq) return (a.string).compareTo(b.string);
-            return Integer.compare(b.freq,a.freq);
+            if(a.freq==b.freq) return (b.string).compareTo(a.string);
+            return Integer.compare(a.freq,b.freq);
         });
-        for(String s:hm.keySet()) pq.offer(new pair(s,hm.get(s)));
-        
+        for(String s:hm.keySet()){
+            pq.offer(new pair(s,hm.get(s)));
+            if(pq.size()>k) pq.poll();
+        }
+
         List<String> ans=new ArrayList<>();
         for(int i=0;i<k;i++){
             ans.add(pq.poll().string);
         }
+        Collections.reverse(ans);
         return ans;
     }
 }
