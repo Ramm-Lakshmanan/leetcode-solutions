@@ -17,14 +17,10 @@ class MedianFinder {
         }
         if(Math.abs(pq1.size()-pq2.size())>1){
             if(pq1.size()>pq2.size()){
-                while(pq1.size()>pq2.size()+1){
-                    pq2.offer(pq1.poll());
-                }
+                pq2.offer(pq1.poll());
             }
             else{
-                while(pq2.size()>pq1.size()+1){
-                    pq1.offer(pq2.poll());
-                }
+                pq1.offer(pq2.poll());
             }
         }
     }
