@@ -10,16 +10,16 @@ class Solution {
         }
 
         int rank=1;
-        int[] prev=pq.poll();
-        ans[prev[1]]=rank;
+        ans[pq.peek()[1]]=rank;
+        int prev=pq.poll()[0];
 
         while(!pq.isEmpty()){
             int[] curr=pq.poll();
-            if(curr[0]!=prev[0]){
+            if(curr[0]!=prev){
                 rank++;
             }
             ans[curr[1]]=rank;
-            prev=curr;
+            prev=curr[0];
         }
         return ans;
     }
