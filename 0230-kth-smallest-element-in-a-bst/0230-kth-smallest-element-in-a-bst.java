@@ -14,25 +14,21 @@
  * }
  */
 class Solution {
-    public int[] func(TreeNode root,int k){
-        
-        if(root.left!=null){
-            int[] res=func(root.left,k);
-            if(res[0]==0) return res;
-            k=res[0];
-        }
-        k--;
-        if(k==0) return new int[]{k,root.val};
+    int res=0,cnt=0;
 
-        if(root.right!=null){
-            int[] res=func(root.right,k);
-            if(res[0]==0) return res;
-            k=res[0];
-        }
-        return new int[]{k,-1};
+    public void inorder(TreeNode root,int k){
+        if(root==null) return;
+        inorder(root.left,k);
+        cnt++;
 
+        if(cnt==k){
+            res=root.val;
+            return;
+        }
+        inorder(root.right,k);
     }
     public int kthSmallest(TreeNode root, int k) {
-        return func(root,k)[1];
+        inorder(root,k);
+        return res;
     }
 }
