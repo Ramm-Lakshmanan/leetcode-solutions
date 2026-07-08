@@ -14,20 +14,20 @@
  * }
  */
 class Solution {
-    public TreeNode func(TreeNode root,int val,Map<Integer,Integer> hm){
-        if(root==null){
-            root=new TreeNode(val,null,null);
-        }
+    int idx=0;
 
-        else if(hm.get(val)<hm.get(root.val)){
-            root.left=func(root.left,val,hm);
-        }
+    public TreeNode func(int[] pre,Map<Integer,Integer>hm,int start,int end){
+        if(start>end) return null;
 
-        else{
-            root.right=func(root.right,val,hm);
-        }
+        TreeNode node=new TreeNode(pre[idx]);
 
-        return root;
+        int mid=hm.get(pre[idx]);
+        idx++;
+
+        node.left=func(pre,hm,start,mid-1);
+        node.right=func(pre,hm,mid+1,end);
+
+        return node;
     }
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         int n=preorder.length;
@@ -37,12 +37,6 @@ class Solution {
             hm.put(inorder[i],i);
         }
 
-        TreeNode root=func(null,preorder[0],hm);
-
-        for(int i=1;i<n;i++){
-            root=func(root,preorder[i],hm);
-        }
-
-        return root;
+        return func(preorder,hm,0,n-1);        
     }
 }
