@@ -3,13 +3,18 @@ class Solution {
         Map<String,List<String>> hm=new HashMap<>();
 
         for(int i=0;i<strs.length;i++){
-            Map<Character,Integer> req=new TreeMap<>();
+            int[] alph=new int[26];
+
             for(int j=0;j<strs[i].length();j++){
-                req.put(strs[i].charAt(j),req.getOrDefault(strs[i].charAt(j),0)+1);
+                alph[strs[i].charAt(j)-97]++;
             }
             StringBuilder entry=new StringBuilder();
-            for(char c:req.keySet()){
-                entry.append(Character.toString(c)+Integer.toString(req.get(c)));
+            
+            for(int k=0;k<26;k++){
+                if(alph[k]!=0){
+                    String ele=Character.toString((k+97));
+                    entry.append(ele).append(alph[k]);
+                }
             }
 
             if(hm.containsKey(entry.toString())){
