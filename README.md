@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
