@@ -28,12 +28,6 @@ class Solution {
             }
         }
 
-        List<List<String>> ans=new ArrayList<>();
-
-        for(String s:hm.keySet()){
-            ans.add(hm.get(s));
-        }
-
-        return ans;
+        return new ArrayList<>(hm.values());
     }
 }
