@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0289-game-of-life) |
+| [0695-max-area-of-island](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -699,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1631-path-with-minimum-effort](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Trie
 |  |
