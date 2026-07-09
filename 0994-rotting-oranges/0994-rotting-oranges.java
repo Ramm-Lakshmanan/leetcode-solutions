@@ -1,60 +1,52 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        Deque<int[]> queue=new ArrayDeque<>();
-        int tot_org=grid.length*grid[0].length;
-        int tot_rot=0;
+        int m=grid.length,n=grid[0].length;
+        Deque<int[]> q=new ArrayDeque<>();
 
-        for(int r=0;r<grid.length;r++){
-            for(int c=0;c<grid[0].length;c++){
-                if(grid[r][c]==2){
-                    queue.offerLast(new int[]{r,c});
-                    tot_rot++;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]==2) q.offer(new int[]{i,j});
+            }
+        }
+
+        int time=0;
+
+        while(!q.isEmpty()){
+            int size=q.size();
+
+            while(size>0){
+                int[] cur=q.poll();
+
+                int i=cur[0],j=cur[1];
+                
+
+                if(i>0 && grid[i-1][j]==1) {
+                    q.offer(new int[]{i-1,j});
+                    grid[i-1][j]=2;
                 }
-                else if(grid[r][c]==0) tot_org--;
+                if(j>0 && grid[i][j-1]==1) {
+                    q.offer(new int[]{i,j-1});
+                    grid[i][j-1]=2;
+                }
+                if(i<m-1 && grid[i+1][j]==1) {
+                    grid[i+1][j]=2;
+                    q.offer(new int[]{i+1,j});
+                }
+                if(j<n-1 && grid[i][j+1]==1) {
+                    grid[i][j+1]=2;
+                    q.offer(new int[]{i,j+1});
+                }
+                size--;
+            }
+            time++;
+        }        
+        
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]==1) return -1;
             }
         }
-
-        if(tot_org==0) return 0;
-        
-        int ans=-1;
-        
-        int req=queue.size();
-        int cur=0;
-
-        while(!queue.isEmpty()){
-            int[] temp=queue.pollFirst();
-            cur++;
-            int r=temp[0];
-            int c=temp[1];
-            if(r>0 && grid[r-1][c]==1){
-                tot_rot++;
-                grid[r-1][c]=2;
-                queue.offerLast(new int[]{r-1,c});
-            }
-            if(r<grid.length-1 && grid[r+1][c]==1){
-                tot_rot++;
-                grid[r+1][c]=2;
-                queue.offerLast(new int[]{r+1,c});
-            }
-            if(c>0 && grid[r][c-1]==1){
-                tot_rot++;
-                grid[r][c-1]=2;
-                queue.offerLast(new int[]{r,c-1});
-            }
-            if(c<grid[0].length-1 && grid[r][c+1]==1){
-                tot_rot++;
-                grid[r][c+1]=2;
-                queue.offerLast(new int[]{r,c+1});
-            }
-
-            if(cur==req){
-                ans++;
-                req=queue.size();
-                cur=0;
-            }
-        }
-
-        if(tot_rot==tot_org) return ans;
-        return -1;
+        System.out.println(time);
+        return time==0?time:time-1;
     }
 }
