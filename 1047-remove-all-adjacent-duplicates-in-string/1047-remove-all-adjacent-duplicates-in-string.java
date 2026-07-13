@@ -5,12 +5,12 @@ class Solution {
         int i=0,n=s.length();
 
         while(i<n){
-            while(i<n && !stk.isEmpty() && stk.peek().equals(s.charAt(i))){
+            if(!stk.isEmpty() && stk.peek().equals(s.charAt(i))){
                 stk.pop();
-                i++;
             }
-            if(i<n)
+            else{
                 stk.push(s.charAt(i));
+            }
             i++;
         }
         StringBuilder ans=new StringBuilder();
