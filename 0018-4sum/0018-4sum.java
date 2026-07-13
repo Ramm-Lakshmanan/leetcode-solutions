@@ -14,10 +14,10 @@ class Solution {
                 while(k<l){
                     long sum=(long)nums[i]+(long)nums[j]+(long)nums[k]+(long)nums[l];
 
-                    if(sum>(long)target){
+                    if(sum>target){
                         l--;
                     }
-                    else if(sum<(long)target){
+                    else if(sum<target){
                         k++;
                     }
                     else{
