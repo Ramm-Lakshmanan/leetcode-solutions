@@ -1,15 +1,14 @@
 class Solution {
     public int maxDepth(String s) {
-        int max=0;
-        Deque<Character> stk=new ArrayDeque<>();
+        int max=0,len=0;
         
         for(int i=0;i<s.length();i++){
             if(s.charAt(i)=='('){
-                stk.push(s.charAt(i));
-                max=Math.max(stk.size(),max);
+                len++;
+                max=Math.max(max,len);
             }
             else if(s.charAt(i)==')'){
-                stk.pop();
+                len--;
             }
         }
 
