@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1002-find-common-characters](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1002-find-common-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1268-search-suggestions-system) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0853-car-fleet](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2211-count-collisions-on-a-road](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
