@@ -24,11 +24,14 @@ class Solution {
         long mod = 1000000007;
         long res = 0;
 
-        for (int i = 0; i < arr.length; i++) {
-            long left = i - pse[i];
-            long right = nse[i] - i;
-            res = (res + (left * right % mod) * arr[i] % mod) % mod;
+        for(int i=0;i<arr.length;i++){
+            long left=(long)(i-pse[i]);
+            long right=(long)(nse[i]-i);
+            long tot_sub=(left*right)%mod;
+
+            res=(res+((tot_sub*arr[i])%mod))%mod;
         }
-        return (int) res;
+
+        return (int)res;
     }
 }
