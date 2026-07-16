@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3693-climbing-stairs-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -622,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -844,4 +849,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
