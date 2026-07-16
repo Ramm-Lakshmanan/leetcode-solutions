@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1268-search-suggestions-system](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1288-remove-covered-intervals](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0780-reaching-points](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0780-reaching-points) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1518-water-bottles](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -629,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
