@@ -27,9 +27,9 @@ class Solution {
         for(int i=0;i<arr.length;i++){
             long left=(long)(i-pse[i]);
             long right=(long)(nse[i]-i);
-            long tot_sub=(left*right)%mod;
+            long tot_sub=(left*right%mod);
 
-            res=(res+((tot_sub*arr[i])%mod))%mod;
+            res=(res+(tot_sub*arr[i]%mod))%mod;
         }
 
         return (int)res;
