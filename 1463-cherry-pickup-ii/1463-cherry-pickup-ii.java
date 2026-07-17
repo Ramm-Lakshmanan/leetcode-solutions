@@ -1,44 +1,34 @@
 class Solution {
-    public int func(int x,int y1,int y2,int[][] grid,int[][][] dp){
-        
-        if(x==grid.length)
-            return 0;
-        
-        if(dp[x][y1][y2]!=-1) return dp[x][y1][y2];
+    public int func(int r,int c1,int c2,int[][] grid,int[][][] dp){
+        if(r==grid.length) return 0;
 
-        int[][] d={{1,-1},{1,0},{1,1}};
+        if(dp[r][c1][c2]!=-1) return dp[r][c1][c2];
 
-        int curr=grid[x][y1]+grid[x][y2];
+        int ans=grid[r][c1]+grid[r][c2];
 
-        if(y1==y2) curr/=2;
+        if(c1==c2) ans/=2;
 
-        int max=Integer.MIN_VALUE;
+        int max=0;
 
-        for(int i=0;i<3;i++){
-            for(int j=0;j<3;j++){
-                int nx=x+d[i][0],ny1=y1+d[i][1];
-                int ny2=y2+d[j][1];
+        for(int i=-1;i<2;i++){
+            for(int j=-1;j<2;j++){
+                if(c1+i<0 || c2+j<0 || c1+i>=grid[0].length || c2+j>=grid[0].length) continue;
 
-                if(nx>grid.length || ny1>=grid[0].length || ny2>=grid[0].length || ny1<0 || ny2<0) continue;
-
-                max=Math.max(max,func(nx,ny1,ny2,grid,dp));
+                max=Math.max(max,func(r+1,c1+i,c2+j,grid,dp));
             }
         }
 
-        if(max!=Integer.MIN_VALUE) curr+=max;
-        return dp[x][y1][y2]=curr;
+        return dp[r][c1][c2]=ans+max;
     }
     public int cherryPickup(int[][] grid) {
-        int row=grid.length,col=grid[0].length;
+        int n=grid.length,m=grid[0].length;
 
-        int[][][] dp=new int[row][col][col];
+        int[][][] dp=new int[n][m][m];
 
-        for(int i=0;i<row;i++){
-            for(int j=0;j<col;j++) Arrays.fill(dp[i][j],-1);
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++) Arrays.fill(dp[i][j],-1);
         }
 
-        int x=0,y1=0,y2=col-1;
-
-        return func(x,y1,y2,grid,dp);        
+        return func(0,0,m-1,grid,dp);
     }
 }
