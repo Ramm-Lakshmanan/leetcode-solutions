@@ -8,12 +8,10 @@ class Solution {
         for(int i=0;i<n;i++) adj.add(new ArrayList<>());
 
         for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(j!=i){
-                    int dis=manhat(points[i],points[j]);
-                    adj.get(i).add(new int[]{j,dis});
-                    adj.get(j).add(new int[]{i,dis});
-                }
+            for(int j=i+1;j<n;j++){
+                int dis=manhat(points[i],points[j]);
+                adj.get(i).add(new int[]{j,dis});
+                adj.get(j).add(new int[]{i,dis});
 
             }
         }
@@ -34,7 +32,7 @@ class Solution {
             for(int[] next:adj.get(node[0])){
                 pq.offer(new int[]{next[0],next[1]});
             }
-            
+
             if(size==n) return mst;
         }
         return mst;
