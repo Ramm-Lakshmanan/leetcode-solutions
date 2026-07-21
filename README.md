@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2140-solving-questions-with-brainpower](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2402-meeting-rooms-iii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2965-find-missing-and-repeated-values](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2211-count-collisions-on-a-road](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1328-break-a-palindrome) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2126-destroying-asteroids) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [3074-apple-redistribution-into-boxes](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
