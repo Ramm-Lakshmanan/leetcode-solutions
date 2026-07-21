@@ -8,7 +8,6 @@ class Solution {
             if(ans.size()%2!=0 && ans.get(ans.size()-1)==nums[i]) continue;
             else ans.add(nums[i]);
         }
-        System.out.println(ans);
 
         int rem=n-ans.size();
         if(ans.size()%2!=0) rem++;
