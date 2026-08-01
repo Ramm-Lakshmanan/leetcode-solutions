@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0368-largest-divisible-subset](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0458-poor-pigs](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0458-poor-pigs) |
+| [0486-predict-the-winner](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0780-reaching-points](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0780-reaching-points) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0458-poor-pigs](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0458-poor-pigs) |
+| [0486-predict-the-winner](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0647-palindromic-substrings) |
@@ -767,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Doubly-Linked List
 |  |
@@ -863,4 +867,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
