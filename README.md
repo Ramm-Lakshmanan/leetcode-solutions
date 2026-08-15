@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3693-climbing-stairs-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
