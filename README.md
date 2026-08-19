@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0458-poor-pigs](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1922-count-good-numbers) |
