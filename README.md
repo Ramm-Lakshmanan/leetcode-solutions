@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2965-find-missing-and-repeated-values](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2402-meeting-rooms-iii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2965-find-missing-and-repeated-values](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3583-count-special-triplets) |
 ## Math
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2126-destroying-asteroids](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2402-meeting-rooms-iii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
