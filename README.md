@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3310-remove-methods-from-project](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Two Pointers
 |  |
 | ------- |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3310-remove-methods-from-project](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -797,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [3310-remove-methods-from-project](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
