@@ -9,20 +9,20 @@ class Solution {
 
         Deque<Integer> stk=new ArrayDeque<>();
         stk.push(k);
-        Set<Integer> vis=new HashSet<>();
+        boolean[] vis=new boolean[n];
 
         while(!stk.isEmpty()){
             int node=stk.pop();
-            vis.add(node);
+            vis[node]=true;
 
             for(int next:adj.get(node)){
-                if(!vis.contains(next)) stk.push(next);
+                if(!vis[next]) stk.push(next);
             }
         }
 
         boolean flag=true;
         for(int[] edge:e){
-            if(!vis.contains(edge[0]) && vis.contains(edge[1])){
+            if(!vis[edge[0]] && vis[edge[1]]){
                 flag=false;
                 break;
             }
@@ -36,7 +36,7 @@ class Solution {
         }
         else{
             for(int i=0;i<n;i++){
-                if(!vis.contains(i)) ans.add(i);
+                if(!vis[i]) ans.add(i);
             }
             return ans;
         }
