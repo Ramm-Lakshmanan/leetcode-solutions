@@ -17,10 +17,8 @@ class Solution {
             if(lcm==k) ans++;
 
             for(int j=i+1;j<n;j++){
-                int GCD=gcd(lcm,nums[j]);
-                int prod=lcm*nums[j];
 
-                lcm=prod/GCD;
+                lcm=lcm*nums[j]/gcd(lcm,nums[j]);
 
                 if(lcm==k) ans++;
                 else if(lcm>k) break;
