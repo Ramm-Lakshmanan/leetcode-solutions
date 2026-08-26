@@ -20,7 +20,7 @@ class Solution {
             l=Math.min(l,pos[i+1]-pos[i]);
         }
 
-        int ans=l;
+        int ans=-1;
 
         while(l<=h){
             int mid=l+(h-l)/2;
