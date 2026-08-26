@@ -12,14 +12,12 @@ class Solution {
             sb.append(s.charAt(right));
 
             while(cnt[1]>=k) {
-                if(cnt[1]==k){
-                    if(ans=="" || right-left+1<len){
-                        ans=sb.toString();
-                        len=right-left+1;
-                    }
-                    else if(right-left+1==len && sb.toString().compareTo(ans)<0){
-                        ans=sb.toString();
-                    }
+                if(ans=="" || right-left+1<len){
+                    ans=sb.toString();
+                    len=right-left+1;
+                }
+                else if(right-left+1==len && sb.toString().compareTo(ans)<0){
+                    ans=sb.toString();
                 }
 
                 cnt[s.charAt(left)-'0']--;
