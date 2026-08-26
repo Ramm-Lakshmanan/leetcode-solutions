@@ -11,19 +11,15 @@ class Solution {
             cnt[s.charAt(right)-'0']++;
             sb.append(s.charAt(right));
 
-            while(cnt[1]>k){
-                cnt[s.charAt(left)-'0']--;
-                left++;
-                sb.deleteCharAt(0);
-            }
-
-            while(cnt[1]==k) {
-                if(ans=="" || right-left+1<len){
-                    ans=sb.toString();
-                    len=right-left+1;
-                }
-                else if(right-left+1==len && sb.toString().compareTo(ans)<0){
-                    ans=sb.toString();
+            while(cnt[1]>=k) {
+                if(cnt[1]==k){
+                    if(ans=="" || right-left+1<len){
+                        ans=sb.toString();
+                        len=right-left+1;
+                    }
+                    else if(right-left+1==len && sb.toString().compareTo(ans)<0){
+                        ans=sb.toString();
+                    }
                 }
 
                 cnt[s.charAt(left)-'0']--;
