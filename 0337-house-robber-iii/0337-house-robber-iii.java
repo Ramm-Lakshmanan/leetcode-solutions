@@ -23,14 +23,11 @@ class Solution {
 
         int ch1=root.val;
 
-        if(root.left==null) {
+        if(root.right!=null) {
             ch1+=func(root.right.left,hm)+func(root.right.right,hm);
         }
-        else if(root.right==null){
+        if(root.left!=null){
             ch1+=func(root.left.right,hm)+func(root.left.left,hm);
-        }
-        else{
-            ch1+=func(root.left.right,hm)+func(root.left.left,hm)+func(root.right.left,hm)+func(root.right.right,hm);
         }
 
         int ch2= func(root.left,hm)+func(root.right,hm);
