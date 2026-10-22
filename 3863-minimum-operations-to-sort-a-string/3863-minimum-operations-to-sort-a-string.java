@@ -6,6 +6,7 @@ class Solution {
         int min_idx=0;
         char max=s.charAt(0);
         int max_idx=0;
+        
         for(int i=1;i<n;i++){
             if(s.charAt(i-1)>s.charAt(i)){
                 flag=false;
