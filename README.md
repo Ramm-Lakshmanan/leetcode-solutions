@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1922-count-good-numbers](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
+| [2409-count-days-spent-together](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2211-count-collisions-on-a-road](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
+| [2409-count-days-spent-together](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
