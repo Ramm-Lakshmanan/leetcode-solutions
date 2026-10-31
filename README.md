@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3665-twisted-mirror-path-count](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Simulation
 |  |
 | ------- |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2140-solving-questions-with-brainpower](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
+| [3665-twisted-mirror-path-count](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
