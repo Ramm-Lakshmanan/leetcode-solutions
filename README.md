@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3781-maximum-score-after-binary-swaps) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Matrix
 |  |
 | ------- |
