@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
