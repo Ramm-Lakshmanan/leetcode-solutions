@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1470-shuffle-the-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1518-water-bottles](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1922-count-good-numbers](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1854-maximum-population-year](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1854-maximum-population-year) |
@@ -811,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/VenkyRamm/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1143-longest-common-subsequence](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2140-solving-questions-with-brainpower](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [3665-twisted-mirror-path-count](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
