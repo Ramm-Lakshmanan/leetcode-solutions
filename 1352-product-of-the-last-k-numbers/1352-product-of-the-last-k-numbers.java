@@ -3,20 +3,25 @@ class ProductOfNumbers {
     int size;
     public ProductOfNumbers() {
         pre=new ArrayList<>();
+        pre.add(1);
         size=0;
     }
     
     public void add(int num) {
-        pre.add(num);
-        size++;
+        if(num==0){
+            pre=new ArrayList<>();
+            pre.add(1);
+            size=0;
+        }        
+        else{
+            pre.add(pre.get(size)*num);
+            size++;
+        }
     }
     
     public int getProduct(int k) {
-        int ans=1;
-        for(int i=size-1;i>size-k-1;i--){
-            ans*=pre.get(i);
-        }
-        return ans;
+        if(k>size) return 0;
+        else return pre.get(size)/pre.get(size-k);
     }
 }
 
