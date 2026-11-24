@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/VenkyRamm/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Divide and Conquer
 |  |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/VenkyRamm/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/VenkyRamm/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting Sort
 |  |
 | ------- |
@@ -966,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ramm-Lakshmanan/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Minimum Spanning Tree
 |  |
